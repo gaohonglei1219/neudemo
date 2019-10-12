@@ -1,8 +1,7 @@
 package com.neu;
 
-public class HiJeff {
+public class Test1 {
 	public static void main(String[] args) {
-		System.out.println("ä½ ä»¬å¥½å•Š!!");
-
+		System.out.println("ÄãºÃ");
 	}
 }

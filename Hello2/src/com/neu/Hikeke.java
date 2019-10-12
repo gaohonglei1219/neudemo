@@ -1,8 +1,7 @@
 package com.neu;
 
-public class HiJeff {
+public class Hikeke {
 	public static void main(String[] args) {
-		System.out.println("你们好啊!!");
-
+		System.out.println("柯柯你好");
 	}
 }

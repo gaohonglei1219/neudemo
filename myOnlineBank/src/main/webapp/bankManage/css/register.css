@@ -1,0 +1,43 @@
+#topmenu {
+	width: 980px;
+	margin: 40px auto 0 auto;
+	height: 60px;
+	position: relative;
+}
+
+.rigesterheader h1 {
+	font-weight: 600;
+    line-height: 1.1;
+	color:#999;
+	font-size:36px;
+}
+
+.rigesterheader h1 small {
+	font-size: 65%;
+	color:#999;
+}
+
+#step-1 {
+	overflow:scroll;
+}
+
+
+#step-1 .noticeinfotitle {
+	text-align: center;
+	line-height: 24px;
+}
+
+#step-1 .noticeinfocontent {
+	line-height: 24px;
+}
+
+.registerfooter {
+	position:relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 980px;
+	margin-bottom: 20px;
+    margin-top: 80px;
+    text-align: center;
+	color:#999;
+}

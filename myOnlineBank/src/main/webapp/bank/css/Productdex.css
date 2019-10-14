@@ -1,0 +1,119 @@
+.navbar .brand {
+    display: block;
+    float: left;
+    padding: 10px 20px;
+    margin-left: -20px;
+    font-size: 20px;
+    font-weight: 200;
+    color: #777;
+    text-shadow: 0px 1px 0px #FFF;
+}
+.navbar .nav {
+    position: relative;
+    left: 0px;
+    display: block;
+    float: left;
+    margin: 0px 10px 0px 0px;
+}
+.navbar .nav {
+    position: relative;
+    left: 0px;
+    display: block;
+    float: left;
+    margin: 0px 10px 0px 0px;
+}
+
+.nav {
+    margin-bottom: 20px;
+    margin-left: 0px;
+    list-style: outside none none;
+}
+ul, ol {
+    padding: 0px;
+    margin: 0px 0px 10px 25px;
+}
+.container:after {
+    clear: both;
+}
+.container:before, .container:after {
+    display: table;
+    line-height: 0;
+    content: "";
+}
+ÔªËØ {
+    width: auto;
+}
+.navbar .container {
+    width: auto;
+}
+.container {
+    margin-right: auto;
+    margin-left: auto;
+}
+.container, .navbar-static-top .container, .navbar-fixed-top .container, .navbar-fixed-bottom .container {
+    width: 940px;
+}
+.navbar:after {
+    clear: both;
+}
+.navbar:after {
+    clear: both;
+}
+.navbar:after {
+    clear: both;
+}
+.navbar:after {
+    clear: both;
+}
+.navbar:before, .navbar:after {
+    display: table;
+    content: " ";
+}
+.navbar:before, .navbar:after {
+    display: table;
+    content: " ";
+}
+.navbar .nav > li {
+    float: left;
+}
+.dropup, .dropdown {
+    position: relative;
+}
+li {
+    line-height: 20px;
+}
+.nav {
+    list-style: outside none none;
+}
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+    color: #333;
+}
+html {
+    font-size: 100%;
+}
+.navbar .nav > li {
+    float: left;
+}
+.open {
+}
+.dropup, .dropdown {
+    position: relative;
+}
+li {
+    line-height: 20px;
+}
+.nav {
+    list-style: outside none none;
+}
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+    color: #333;
+}
+html {
+    font-size: 100%;
+}

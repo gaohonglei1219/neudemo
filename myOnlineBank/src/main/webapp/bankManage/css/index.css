@@ -1,0 +1,32 @@
+.small-box h2 {
+  font-size: 30px;
+  font-weight: bold;
+  margin: 0 0 10px 0;
+  white-space: nowrap;
+  padding: 0;
+
+}
+
+.quickService img {
+	padding-top:15px;
+	padding-bottom:15px;
+
+}
+
+.quickService a {
+	color:#333;
+	font-size: 12px;
+
+}
+
+.banknotice li{
+	color:#999;
+	font-size: 12px;
+	border-left: none!important;
+}
+
+.bankReminder li{
+	color:#999!important;
+	font-size: 12px;
+	border-left: none!important;
+}

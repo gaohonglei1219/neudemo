@@ -1,7 +1,7 @@
 package com.neu.po;
 
 public class ObCard {
-	private int cardid;
+	private String cardid;
 	private String e_mail;
 	private String address;
 	private String cardalias;
@@ -10,19 +10,19 @@ public class ObCard {
 	private String certificatenum;
 	private String certificatetype;
 	private String fixphone;
-	private int gender;
-	private int issigned;
-	private int cardid2;
+	private String gender;
+	private String issigned;
+	private String cardid2;
 	private String phonenum;
 	private String postcode;
-	private int state;
-	private int cardtypeid;
-	private int networkid;
-	private int obuserid;
-	public int getCardid() {
+	private String state;
+	private String cardtypeid;
+	private String networkid;
+	private String obuserid;
+	public String getCardid() {
 		return cardid;
 	}
-	public void setCardid(int cardid) {
+	public void setCardid(String cardid) {
 		this.cardid = cardid;
 	}
 	public String getE_mail() {
@@ -73,22 +73,22 @@ public class ObCard {
 	public void setFixphone(String fixphone) {
 		this.fixphone = fixphone;
 	}
-	public int getGender() {
+	public String getGender() {
 		return gender;
 	}
-	public void setGender(int gender) {
+	public void setGender(String gender) {
 		this.gender = gender;
 	}
-	public int getIssigned() {
+	public String getIssigned() {
 		return issigned;
 	}
-	public void setIssigned(int issigned) {
+	public void setIssigned(String issigned) {
 		this.issigned = issigned;
 	}
-	public int getCardid2() {
+	public String getCardid2() {
 		return cardid2;
 	}
-	public void setCardid2(int cardid2) {
+	public void setCardid2(String cardid2) {
 		this.cardid2 = cardid2;
 	}
 	public String getPhonenum() {
@@ -103,28 +103,28 @@ public class ObCard {
 	public void setPostcode(String postcode) {
 		this.postcode = postcode;
 	}
-	public int getState() {
+	public String getState() {
 		return state;
 	}
-	public void setState(int state) {
+	public void setState(String state) {
 		this.state = state;
 	}
-	public int getCardtypeid() {
+	public String getCardtypeid() {
 		return cardtypeid;
 	}
-	public void setCardtypeid(int cardtypeid) {
+	public void setCardtypeid(String cardtypeid) {
 		this.cardtypeid = cardtypeid;
 	}
-	public int getNetworkid() {
+	public String getNetworkid() {
 		return networkid;
 	}
-	public void setNetworkid(int networkid) {
+	public void setNetworkid(String networkid) {
 		this.networkid = networkid;
 	}
-	public int getObuserid() {
+	public String getObuserid() {
 		return obuserid;
 	}
-	public void setObuserid(int obuserid) {
+	public void setObuserid(String obuserid) {
 		this.obuserid = obuserid;
 	}
 	@Override
@@ -136,4 +136,6 @@ public class ObCard {
 				+ postcode + ", state=" + state + ", cardtypeid=" + cardtypeid + ", networkid=" + networkid
 				+ ", obuserid=" + obuserid + "]";
 	}
+	
+	
 }
